@@ -1,4 +1,4 @@
-<h1>abot me<h1>
+<h1><b>about me<b><h1>
 
 - 👋 Hi, I’m @mehek-prabhakar
 - 👀 I’m interested in design, web dev, and user psychology
