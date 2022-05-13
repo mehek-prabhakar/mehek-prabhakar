@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @mehek-prabhakar
 - 👀 I’m interested in design, web dev, and user psychology
 - 🌱 I’m currently learning web dev and DSA
-- 💞️ I’m looking to collaborate on UI Design web development projects
+- 💞️ I’m looking to collaborate on UI Design, UX Research web development projects
 - 📫 How to reach me? @MehekPrabhakar on twitter or at mehekprabhakar5@gmail.com
 
 <!---
