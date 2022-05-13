@@ -1,6 +1,6 @@
 <h1><b>about me</b></h1>
 
-<p class="font-size: medium">
+<p class="font-size: large">
 - 👋 Hi, I’m @mehek-prabhakar<br>
 - 👀 I’m interested in design, web dev, and user psychology<br>
 - 🌱 I’m currently learning web dev and DSA<br>
